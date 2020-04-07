@@ -104,13 +104,4 @@
     <string name="transport_id" translatable="false">123</string>
     <string name="title_activity_display" translatable="false">Map</string>
     <string name="map">Map</string>
-
-
-
-    <string name="client_id">709617023320-kaqnh1246nbjimcqjen56p06f0snrlbm.apps.googleusercontent.com</string>
-    <string name="secret">709617023320-kaqnh1246nbjimcqjen56p06f0snrlbm.apps.googleusercontent.com</string>
-    <string name="web_client">709617023320-kaqnh1246nbjimcqjen56p06f0snrlbm.apps.googleusercontent.com</string>
-
-    <string name="fb_app_id">918191011951736</string>
-    <string name="fb_app_secret">f0506d39ba7ba31686de813efab867fb</string>
 </resources>
