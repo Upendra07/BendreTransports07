@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_book_tickets"
+        android:icon="@drawable/tickets"
+        android:title="@string/book_tickets"/>
+
+    <item
+        android:id="@+id/navigation_my_tickets"
+        android:icon="@drawable/tickets"
+        android:title="@string/my_tickets"/>
+
+    <item
+        android:id="@+id/navigation_my_passes"
+        android:icon="@drawable/pass_icon"
+        android:title="@string/my_passes"/>
+
+    <item
+        android:id="@+id/navigation_map"
+        android:icon="@drawable/map"
+        android:title="@string/map"/>
+
+
+</menu>

@@ -1,0 +1,116 @@
+<resources>
+
+    <string name="app_name" translatable="false">Bendre Nagara Sarige</string>
+    <string name="email_txt_login_hint">Email</string>
+    <string name="select_stop_msg">Must select both from and to stops for journey</string>
+    <string name="bendre_transports">Bendre Transports</string>
+    <string name="ok">OK</string>
+    <string name="pay_for_ticket">Pay for ticket</string>
+    <string name="account_create_success">"Account created Successfully!"</string>
+    <string name="creating_account_msg">Creating account</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login_success">Logged in Successfully!!</string>
+    <string name="logging_in">Logging you in…Please wait!</string>
+    <string name="must_fill_all_fields">Must fill all fields</string>
+    <string name="passwords_doesnt_match">Password and confirm password doesn\'t match</string>
+    <string name="enter_email_to_recover">To reset password, enter existing account\'s registered email id</string>
+    <string name="sending_email_recovery">Sending email to reset password</string>
+    <string name="recovery_mail_success">Mail sent successfully, Do check out mail box and find the link to change your password</string>
+    <string name="password_hint">Password</string>
+    <string name="log_in">LOG IN</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="forgot_password_click_here_to_reset">Forgot password..? Click here to reset</string>
+    <string name="create_new_account">create new account</string>
+    <string name="send_recovery_email">Send recovery email</string>
+    <string name="re_enter_password">Re-Enter password</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="log_out">Log out</string>
+    <string name="proceed_to_pay">Proceed to pay</string>
+    <string name="ticket_price">Ticket Price</string>
+    <string name="rupees_zero">₹0</string>
+    <string name="my_tickets">My Tickets</string>
+    <string name="payment_failed">Payment Failed!</string>
+    <string name="retry_booking_ticket">Retry Booking Ticket</string>
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="go_and_collect_your_ticket_in">Go and collect your ticket in</string>
+    <string name="go_to_my_tickets">Go to my Tickets</string>
+    <string name="qr_ticket">QR Ticket</string>
+    <string name="ticket_id">Ticket Id :</string>
+    <string name="from">From :</string>
+    <string name="to">To :</string>
+    <string name="amount">Amount :</string>
+    <string name="my_tickets_a">My Tickets</string>
+    <string name="confirm_sign_out">Are you sure to log out?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="fetching_tickets">Fetching Tickets</string>
+
+
+    <string-array name="stop_locations_from">
+
+        <item>[From]</item>
+        <item>Gandhinagar</item>
+        <item>Y.S.Colony</item>
+        <item>Hosur Cross</item>
+        <item>Vidyagiri</item>
+        <item>Navanagar</item>
+        <item>Unakal</item>
+
+    </string-array>
+
+
+    <string-array name="stop_locations_to">
+
+        <item>[To]</item>
+        <item>Gandhi nagar</item>
+        <item>Y.S.Colony</item>
+        <item>Hosur Cross</item>
+        <item>Vidyagiri</item>
+        <item>Navanagar</item>
+        <item>Unakal</item>
+
+    </string-array>
+
+
+    <string-array name="ticket_types">
+
+        <item>Adult</item>
+        <item>Child</item>
+        <item>Senior Citizen</item>
+
+    </string-array>
+
+    <string-array name="langs">
+        <item>english</item>
+        <item>ಕನ್ನಡ</item>
+    </string-array>
+
+    <string-array name="buses">
+
+        <item>[Select bus no]</item>
+        <item>KA-25 J-1212</item>
+        <item>KA-25 K-2121</item>
+        <item>KA-25 L-1313</item>
+        <item>KA-25 M-3131</item>
+
+
+    </string-array>
+
+    <string name="book_tickets">Book Tickets</string>
+    <string name="my_passes">My Passes</string>
+
+    <string name="notification_text">Tracking, tap to cancel</string>
+    <string name="transport_id" translatable="false">123</string>
+    <string name="title_activity_display" translatable="false">Map</string>
+    <string name="map">Map</string>
+
+
+
+    <string name="client_id">709617023320-kaqnh1246nbjimcqjen56p06f0snrlbm.apps.googleusercontent.com</string>
+    <string name="secret">709617023320-kaqnh1246nbjimcqjen56p06f0snrlbm.apps.googleusercontent.com</string>
+    <string name="web_client">709617023320-kaqnh1246nbjimcqjen56p06f0snrlbm.apps.googleusercontent.com</string>
+
+    <string name="fb_app_id">918191011951736</string>
+    <string name="fb_app_secret">f0506d39ba7ba31686de813efab867fb</string>
+</resources>

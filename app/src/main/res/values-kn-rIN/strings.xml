@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="email_txt_login_hint">ಇಮೇಲ್</string>
+    <string name="select_stop_msg">ಎಲ್ಲಿಂದ ಮತ್ತು ಎಲ್ಲಿಗೆ ಎಂಬುದನ್ನು ನಮೂದಿಸಿ, ಪುನಃ ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="bendre_transports">ಬೇಂದ್ರೆ ನಗರ ಸಾರಿಗೆ</string>
+    <string name="ok">ಸರಿ</string>
+    <string name="pay_for_ticket">ಟಿಕೆಟ್ ಗೆ ಪಾವತಿಸಿ</string>
+    <string name="account_create_success">ಖಾತೆ ರಚನೆ ಯಶಸ್ವಿಯಾಯಿತು!</string>
+    <string name="creating_account_msg">ಖಾತೆ ರಚಿಸಲಾಗುತ್ತಿದೆ </string>
+    <string name="enter_email">ಈಮೇಲ್ ಎಂಟರ್ ಮಾಡಿ</string>
+    <string name="enter_password">ಪಾಸ್ವರ್ಡ್ ಎಂಟರ್ ಮಾಡಿ</string>
+    <string name="login_success">ಲಾಗ್ ಇನ್ ಯಶಸ್ವಿಯಾಯಿತು</string>
+    <string name="logging_in">ಲಾಗಿನ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
+    <string name="must_fill_all_fields">ಎಲ್ಲಾ ಮಾಹಿತಿಗಳನ್ನು ತುಂಬಿರಿ</string>
+    <string name="passwords_doesnt_match">ಪಾಸ್ವರ್ಡ್ ಮತ್ತು ಖಚಿತ ಪಡಿಸುವ ಪಾಸ್ವರ್ಡ್ ಹೊಂದುತ್ತಿಲ್ಲ</string>
+    <string name="enter_email_to_recover">ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಲು, ಬೇಕಾದ ಖಾತೆಯ ಈಮೇಲ್ ಎಂಟರ್ ಮಾಡಿ</string>
+    <string name="sending_email_recovery">ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಲು ಮೇಲ್ ಕಳುಹಿಸುತ್ತಿದ್ದೇವೆ</string>
+    <string name="recovery_mail_success">ಈಮೇಲ್ ಕಳುಹಿಸಿದ್ದೇವೆ, ಮೇಲ್ ನಲ್ಲಿ ಪಾಸ್ವರ್ಡ್ ಬದಲಾಯಿಸಲು ಲಿಂಕ್ ನೀಡಲಾಗಿದೆ</string>
+    <string name="password_hint">ಪಾಸ್ವರ್ಡ್</string>
+    <string name="log_in">ಲಾಗ್ ಇನ್</string>
+    <string name="don_t_have_an_account">ಖಾತೆ ಇಲ್ಲವೇ?</string>
+    <string name="forgot_password_click_here_to_reset">ಪಾಸ್ವರ್ಡ್ ಮರೆತಿರಾ?</string>
+    <string name="create_new_account">ಹೊಸ ಖಾತೆಯನ್ನು ರಚಿಸಿ</string>
+    <string name="send_recovery_email">ಬದಲಾಯಿಸಲು ಮೇಲ್ ಕಳುಹಿಸಿ</string>
+    <string name="re_enter_password">ಪಾಸ್ವರ್ಡ್ ಖಚಿತ ಪಡಿಸಿ</string>
+    <string name="sign_up">ಖಾತೆ ರಚಿಸಿ</string>
+    <string name="log_out">ಲಾಗ್ ಔಟ್</string>
+    <string name="proceed_to_pay">ಪಾವತಿಸಲು ಮುಂದುವರೆಯಿರಿ</string>
+    <string name="ticket_price">ಟಿಕೆಟ್ ದರ</string>
+    <string name="rupees_zero">₹0</string>
+    <string name="my_tickets">ನನ್ನ ಟಿಕ್ಕೆಟ್ಸ್</string>
+    <string name="payment_failed">ಪಾವತಿ ಯಶಸ್ವಿಯಾಗಿಲ್ಲ</string>
+    <string name="retry_booking_ticket">ಮತ್ತೊಮ್ಮೆ ಟಿಕೆಟ್ ಬುಕ್ ಮಾಡಲು ಪ್ರಯತ್ನಿಸಿ</string>
+    <string name="payment_successful">ಪಾವತಿ ಯಶಸ್ವಿಯಾಗಿದೆ</string>
+    <string name="go_and_collect_your_ticket_in">ನಿಮ್ಮ ಟಿಕೆಟ್ ಪಡೆಯಿರಿ</string>
+    <string name="my_tickets_a">ನನ್ನ ಟಿಕ್ಕೆಟ್ಸ್ ನಲ್ಲಿ</string>
+    <string name="go_to_my_tickets">ನನ್ನ ಟಿಕ್ಕೆಟ್ಸ್ ಗೆ ಹೋಗಿರಿ</string>
+    <string name="qr_ticket">ಕ್ಯೂ ಆರ್ ಟಿಕೆಟ್</string>
+    <string name="ticket_id">ಟಿಕೆಟ್ ಐ‌ಡಿ</string>
+    <string name="from">ಇಂದ</string>
+    <string name="to">ಗೆ</string>
+    <string name="amount">ದರ</string>
+    <string name="book_tickets">ಟಿಕ್ಕೆಟ್ಸ್ ಬುಕ್ ಮಾಡಿ</string>
+    <string name="my_passes">ನನ್ನ ಪಾಸ್</string>
+
+    <string-array name="stop_locations_from">
+
+        <item>[ಇಂದ]</item>
+        <item>ಗಾಂಧಿನಗರ</item>
+        <item>Y.S. ಕಾಲನಿ</item>
+        <item>ಹೊಸೂರು ಕ್ರಾಸ್</item>
+        <item>ವಿದ್ಯಾಗಿರಿ</item>
+        <item>ನವನಗರ</item>
+        <item>ಉಣಕಲ್</item>
+
+    </string-array>
+
+
+    <string-array name="stop_locations_to">
+
+        <item>[ಗೆ]</item>
+        <item>ಗಾಂಧಿನಗರ</item>
+        <item>Y.S. ಕಾಲನಿ</item>
+        <item>ಹೊಸೂರು ಕ್ರಾಸ್</item>
+        <item>ವಿದ್ಯಾಗಿರಿ</item>
+        <item>ನವನಗರ</item>
+        <item>ಉಣಕಲ್</item>
+
+    </string-array>
+
+
+    <string-array name="ticket_types">
+
+        <item>ವಯಸ್ಕ</item>
+        <item>ಮಕ್ಕಳು</item>
+        <item>ಹಿರಿಯ ನಾಗರಿಕ</item>
+
+    </string-array>
+    <string name="confirm_sign_out">ಲಾಗ್ ಔಟ್ ಮಾಡಬಹುದೇ?</string>
+    <string name="yes">ಮಾಡಿ</string>
+    <string name="no">ಬೇಡ</string>
+    <string name="fetching_tickets">ಟಿಕೆಟ್ ಪಡೆಯಲಾಗುತ್ತಿದೆ</string>
+    <string name="notification_text">tracking ಮಾಡಲಾಗುತ್ತಿದೆ, ನಿಲ್ಲಿಸಲು ಇಲ್ಲಿ ಮುಟ್ಟಿರಿ</string>
+
+
+</resources>

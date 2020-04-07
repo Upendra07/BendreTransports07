@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "709617023320",
+    "firebase_url": "https://bendre-transports-36bb7.firebaseio.com",
+    "project_id": "bendre-transports-36bb7",
+    "storage_bucket": "bendre-transports-36bb7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709617023320:android:fd75dd32fe465c46208d2d",
+        "android_client_info": {
+          "package_name": "com.example.bendrenagarasarige"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "709617023320-nrer379e6tt7c7qiff5a4p5ad9opliso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bendrenagarasarige",
+            "certificate_hash": "8800c80633df7a72228314dcea1a6b340dd4c41d"
+          }
+        },
+        {
+          "client_id": "709617023320-hjquuh9mau93cshi122rhj9uvq8r9k4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8TySuKbug9GmjXyB8nJ1rgMRUDGJOYJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "709617023320-hjquuh9mau93cshi122rhj9uvq8r9k4k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_scan_conductor"
+        android:title="Scan"
+        android:icon="@drawable/qr_code"/>
+
+    <item android:id="@+id/nav_track"
+        android:title="Track"
+        android:icon="@drawable/map"/>
+
+
+</menu>
